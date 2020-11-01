@@ -1,0 +1,6 @@
+shMe()
+# speak("Setting Things Up, checking componet")
+# speak("Uploading files... ")
+# speak("Loading...")
+# speak("Hello Sir, Now I'm Online")
+# speak(line)
