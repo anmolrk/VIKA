@@ -14,3 +14,6 @@ pip install GPUtil<br>
 pip install requests<br>
 pip install wikipedia<br>
 pip install newsapi-python
+
+# Preview
+<img src = "https://github.com/anmolrk/VIKA/blob/main/VIKAMark7ScreenShot.png">
